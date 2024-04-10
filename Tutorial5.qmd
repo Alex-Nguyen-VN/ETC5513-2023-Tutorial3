@@ -1,0 +1,7 @@
+---
+title: "Learning to merge"
+author: Thanh Cuong Nguyen
+format:
+  html: default
+date: "`r Sys.Date()`"
+---
